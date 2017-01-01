@@ -17,7 +17,7 @@ public class TextScroller : MonoBehaviour {
 
   void Start () {
     StartScrolling();
-    LoadTextAsset("quijote_short");
+    LoadTextAsset("quijote_short_utf8");
 	}
 	
 	// Update is called once per frame
